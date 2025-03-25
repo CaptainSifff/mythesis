@@ -8,10 +8,14 @@
 - and everything
 
 ## Theory
-Theory is theory
+Why theory? Isn't basic math enough?
+
 
 ## Experiment
 
 ## Conclusion
 
 ## Appendix
+
+## Acknowledgments
+I thank everyone.
